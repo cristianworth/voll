@@ -1,86 +1,86 @@
 {
-    "profissionais": [
+    "professionals": [
         {
             "id": 1,
-            "imagem": "https://imgur.com/imkS67m.png",
-            "nome": "Ana Luiza",
-            "especialidade": "Clínico Geral",
-            "nota": 4.5
+            "image": "https://imgur.com/imkS67m.png",
+            "name": "Ana Luiza",
+            "specialty": "General Practitioner",
+            "rating": 4.5
         },
         {
             "id": 2,
-            "imagem": "https://imgur.com/iyFgXHb.png",
-            "nome": "Caroline Carvalho",
-            "especialidade": "Nutricionista",
-            "nota": 4.6
+            "image": "https://imgur.com/iyFgXHb.png",
+            "name": "Caroline Carvalho",
+            "specialty": "Nutritionist",
+            "rating": 4.6
         },
         {
             "id": 3,
-            "imagem": "https://imgur.com/ho9CUwp.png",
-            "nome": "Camila Fernanda",
-            "especialidade": "Oftamologista",
-            "nota": 4.3
+            "image": "https://imgur.com/ho9CUwp.png",
+            "name": "Camila Fernanda",
+            "specialty": "Ophthalmologist",
+            "rating": 4.3
         },
         {
             "id": 4,
-            "imagem": "https://imgur.com/sVAFzFy.png",
-            "nome": "Bruno Divino",
-            "especialidade": "Psiquiatra",
-            "nota": 4.7
+            "image": "https://imgur.com/sVAFzFy.png",
+            "name": "Bruno Divino",
+            "specialty": "Psychiatrist",
+            "rating": 4.7
         }
     ],
-    "consultas": [
+    "appointments": [
         {
             "id": 1,
-            "data": "2022-01-24",
-            "horario": "08:30",
-            "profissional": [
+            "date": "2022-01-24",
+            "time": "08:30",
+            "professionals": [
                 {
-                    "nome": "Ana Luiza",
-                    "especialidade": "Clínico Geral"
+                    "name": "Ana Luiza",
+                    "specialty": "General Practitioner"
                 }
             ],
-            "paciente": "Larissa Gabriela",
-            "modalidade": "Particular"
+            "patient": "Larissa Gabriela",
+            "modality": "Private"
         },
         {
             "id": 2,
-            "data": "2022-01-25",
-            "horario": "08:30",
-            "profissional": [
+            "date": "2022-01-25",
+            "time": "08:30",
+            "professionals": [
                 {
-                    "nome": "Caroline Carvalho",
-                    "especialidade": "Nutricionista"
+                    "name": "Caroline Carvalho",
+                    "specialty": "Nutritionist"
                 }
             ],
-            "paciente": "Guilherme Lira",
-            "modalidade": "Particular"
+            "patient": "Guilherme Lira",
+            "modality": "Private"
         }
     ],
-    "avaliacoes": [
+    "evaluations": [
         {
             "id": 1,
-            "data": "2022-04-01",
-            "horario": "10:30",
-            "profissional": [
+            "date": "2022-04-01",
+            "time": "10:30",
+            "professionals": [
                 {
-                    "nome": "Ana Luiza",
-                    "especialidade": "Clínico Geral"
+                    "name": "Ana Luiza",
+                    "specialty": "General Practitioner"
                 }
             ],
-            "nota": 4.5
+            "rating": 4.5
         },
         {
             "id": 2,
-            "data": "2022-04-01",
-            "horario": "10:30",
-            "profissional": [
+            "date": "2022-04-01",
+            "time": "10:30",
+            "professionals": [
                 {
-                    "nome": "Caroline Carvalho",
-                    "especialidade": "Nutricionista"
+                    "name": "Caroline Carvalho",
+                    "specialty": "Nutritionist"
                 }
             ],
-            "nota": 4.5
+            "rating": 4.5
         }
     ]
 }

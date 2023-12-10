@@ -1,5 +1,6 @@
 ```
 npm run start
+npm install -g json-server
 npm run api
 ```
 

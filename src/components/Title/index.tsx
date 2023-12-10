@@ -21,7 +21,7 @@ const StyledDiv = styled.div`
 `;
 
 const StyledSpan = styled.span<Props>`
-  background-repeat: no repeat;
+  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   width: 25px;

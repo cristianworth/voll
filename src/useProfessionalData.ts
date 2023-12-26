@@ -2,7 +2,9 @@ import IProfessional from "./types/IProfessional";
 import useFetch from "./useFetch";
 
 const useProfessionalData = () => {
-  return useFetch<IProfessional[]>({ url: "professionals" });
+  var professionals = useFetch<IProfessional[]>({ url: "professionals" });
+  console.log("All professionals", professionals)
+  return professionals;
 };
 
 export default useProfessionalData;

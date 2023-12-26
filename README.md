@@ -1,8 +1,22 @@
+# Dependencies
+Run the react application
 ```
 npm run start
+```
+
+Run the server, the api port it's defined in the package.json file
+```
+"api": "json-server --watch -p 8080 db.json"
 npm install -g json-server
 npm run api
 ```
+
+Chart dependencie
+```
+npm install recharts
+```
+
+Final project example can be found [here](https://github.com/alura-cursos/voll/tree/aula05)
 
 ![React com Typescript: desenvolvendo uma área administrativa com MUI, Recharts e Styled Components](https://imgur.com/Qgf3van.png)
 

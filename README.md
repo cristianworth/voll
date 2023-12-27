@@ -16,9 +16,9 @@ Chart dependencie
 npm install recharts
 ```
 
-Final project example can be found [here](https://github.com/alura-cursos/voll/tree/aula05)
-
-![React com Typescript: desenvolvendo uma área administrativa com MUI, Recharts e Styled Components](https://imgur.com/Qgf3van.png)
+# References
+* The Figma project can be found [here](https://www.figma.com/file/P91RXkmlSSfx35B6fW6yGA/voll-web?type=design&node-id=246%3A3606&mode=design&t=C3bu6v9o33MKlCn4-1)
+* The inspiration for this web site can be found [here](https://github.com/alura-cursos/voll/tree/aula05)
 
 # React com Typescript: desenvolvendo uma área administrativa
 
